@@ -91,16 +91,16 @@ endfunction
 function! s:ToggleSpaceHi()
     if exists("b:spacehi") && b:spacehi
         call s:NoSpaceHi()
-        set expandtab
-        set tabstop=4
-        set shiftwidth=4
+        "set expandtab
+        "set tabstop=4
+        "set shiftwidth=4
         echo "spacehi off"
                 
     else
         call s:SpaceHi()
-        set noexpandtab
-        set tabstop=4
-        set shiftwidth=4
+        "set noexpandtab
+        "set tabstop=4
+        "set shiftwidth=4
         echo "spacehi on"
     endif
 endfunction
