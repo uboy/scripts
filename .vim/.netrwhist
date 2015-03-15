@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/vobs/cs7prod/delivery/cxc_collection/wpp'
+let g:netrw_dirhist_2='/vobs/cs7prod/delivery/cxc_collection'
+let g:netrw_dirhist_3='/vobs/cs7prod/delivery'
+let g:netrw_dirhist_4='/vobs/cs7prod'
+let g:netrw_dirhist_5='/vobs/cs7prod/ss7'
+let g:netrw_dirhist_6='/vobs/cs7prod/ss7/tools'
+let g:netrw_dirhist_7='/vobs/cs7prod/ss7/tools/makesupport'
